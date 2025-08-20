@@ -27,6 +27,7 @@
 
     .container { 
         display: flex;
+        gap: 40px; 
     }
 
     &__image { 
@@ -34,7 +35,6 @@
     }
 
     &__details { 
-        gap: 40px; 
 
         &__title{ 
             font-size: 18px;
